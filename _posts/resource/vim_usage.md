@@ -2,7 +2,6 @@
 layout: post
 title: vim的用法记录
 category: 资源
-tags: [vim]
 description: 常见的vim的用法
 ---
 
